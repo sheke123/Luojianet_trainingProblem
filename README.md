@@ -1,8 +1,8 @@
-# 遥感影像场景训练VGG部分
-## 包括VGG11, VGG13, VGG16, VGG19
-论文：《Very Deep Convolutional Networks for Large-Scale Image Recognition》
-链接：[https://arxiv.org/abs/1409.1556](https://arxiv.org/abs/1409.1556)
-![VGG网络](image.png)
+# LuojiaNet_mindspore训练问题描述
+## Problem1问题描述：
+在进行验证时，各个卡的同一个Epoch的验证精度不一致。
+ModelArts任务ID：685e2429-307d-4728-99e9-ff4e783f9822
+
 ## 包括VGG11, VGG13, VGG16, VGG19
 论文：《Very Deep Convolutional Networks for Large-Scale Image Recognition》
 链接：[https://arxiv.org/abs/1409.1556](https://arxiv.org/abs/1409.1556)
