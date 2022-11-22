@@ -3,6 +3,14 @@
 论文：《Very Deep Convolutional Networks for Large-Scale Image Recognition》
 链接：[https://arxiv.org/abs/1409.1556](https://arxiv.org/abs/1409.1556)
 ![VGG网络](image.png)
+## 包括VGG11, VGG13, VGG16, VGG19
+论文：《Very Deep Convolutional Networks for Large-Scale Image Recognition》
+链接：[https://arxiv.org/abs/1409.1556](https://arxiv.org/abs/1409.1556)
+![VGG网络](image.png)
+## 包括VGG11, VGG13, VGG16, VGG19
+论文：《Very Deep Convolutional Networks for Large-Scale Image Recognition》
+链接：[https://arxiv.org/abs/1409.1556](https://arxiv.org/abs/1409.1556)
+![VGG网络](image.png)
 
 > 训练后模型下载：
 >- [vgg16](https://whu.obs.cn-central-221.ovaijisuan.com/trained_model/vgg16.ckpt)
